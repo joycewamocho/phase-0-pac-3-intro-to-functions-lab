@@ -27,6 +27,9 @@ function sayHiToHeadphonedRoommate(string) {
       return "I'm not sure what you said.";  
     }
   }
+console.log(sayHiToHeadphonedRoommate('hello')); 
+console.log(sayHiToHeadphonedRoommate('HELLO')); 
+console.log(sayHiToHeadphonedRoommate("Let's have dinner together!"));
 
 
 
